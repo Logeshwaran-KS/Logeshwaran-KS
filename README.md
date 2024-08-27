@@ -1,29 +1,8 @@
 ## Hi there, I'm Logeshwaran! 👋
-<!--
-### 👨‍💻 About Me:
-- 🎓 I’m a software developer and data scientist with a strong focus on innovation and quality.
-- 💡 I’m passionate about working on unique projects that push the boundaries of what's possible.
-- 🌱 I’m currently exploring the depths of **JavaScript, TypeScript, and Angular**.
-- 👯 I’m looking to collaborate on open-source projects that align with my skills in **machine learning, deep learning, and web development**.
-- ⚡ Fun fact: I love to brainstorm creative ideas and turn them into reality.
-
-### 🚀 Skills:
-- **Programming Languages:** Python, JavaScript, TypeScript
-- **Frontend Development:** Angular, HTML, CSS
-- **Backend Development:** Flask, Express, Node.js
-- **Database:** MongoDB, SQL
-- **Machine Learning:** TensorFlow, PyTorch
-- **Tools & Platforms:** Git, GitHub, Docker, Netlify
-
-### 📈 Current Projects:
-- **Smart Education Platform:** A personalized learning platform that uses ML algorithms to tailor study plans based on behavioral traits.
-- **Medicinal Plant Detection:** A Python-based project for detecting and classifying medicinal plants.
-- **Exam Study Platform:** A collaborative project utilizing large language models (LLMs) to enhance study preparation for competitive exams.
 
 ### 📫 How to Reach Me:
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Website:** [Your Personal Website]
+- **Email:** logeshwaranks01@gmail.com
+- **LinkedIn:** logeshwaran-ks
 
 ### 🛠️ Tools & Technologies:
 <p align="left">
@@ -34,6 +13,23 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
+
+<!--
+### 👨‍💻 About Me:
+- 🎓 I’m a software developer and data scientist with a strong focus on innovation and quality.
+- 💡 I’m passionate about working on unique projects that push the boundaries of what's possible.
+- 🌱 I’m currently exploring the depths of **JavaScript, TypeScript, and Angular**.
+- 👯 I’m looking to collaborate on open-source projects that align with my skills in **machine learning, deep learning, and web development**.
+- ⚡ Fun fact: I love to brainstorm creative ideas and turn them into reality.
+
+### 🚀 Skills:
+- **Programming Languages:** Python, Java, JavaScript, TypeScript
+- **Frontend Development:** Angular, HTML, CSS
+- **Backend Development:** Flask
+- **Database:** MongoDB, MySQL
+- **Machine Learning:** TensorFlow, PyTorch
+- **Tools & Platforms:** Git & GitHub, VS Code, Google Colab, Figma
+
 
 
 **Logeshwaran-KS/Logeshwaran-KS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
