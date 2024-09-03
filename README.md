@@ -33,38 +33,23 @@ Welcome to my digital space on GitHub! I'm driven by a creative passion for leve
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=green" alt="Machine Learning"/>
 </p>
 
-## 🚀 Notable Projects
+## 🚀 Featured Projects
 
 ### 📚 College Project
-A detailed information about the Seminar and Project that I worked on has been showcased in my repository
-
 [College Project Repo](https://github.com/Logeshwaran-KS/College-Projects)
 
 ### 🌳 Leaf Disease Detection
-A comprehensive business website that displays and manages products. It features a full **DevOps setup** and is built using **Angular** and **Flask/Django**.
-
 [Leaf Disease Repo](https://github.com/Logeshwaran-KS/Plants-Disease-Detection)
 
 ### 🌿 Medicinal Plant Detection
-A deep learning model that identifies medicinal plants with remarkable accuracy (**97.60%** on the final epoch, **99.52%** on the test set). This project showcases my expertise in **Python**, **Flask**, and **Angular**.
-
-[Medicinal Plants Detection - ML]()
-
-[Medicinal Plants Detection - DL]()
-
-[Explore the Website](#) - Static
+[Medicinal Plants Detection]() - ML &emsp;   [Medicinal Plants Detection]() - DL  &emsp;  [Explore the Website](#) - Static
 
 ### 🧠 Brain Tumor Segmentation
-An intelligent platform tailored for JEE, NEET, and IELTS aspirants. Leveraging machine learning, it classifies users into personalized study plans based on behavioral traits.
-
-[Explore the Platform](#)
+[Explore the Repo](#)
 
 ### ⛈️ Weather Application (On-Going)
-This weather app delivers real-time weather updates and forecasts, leveraging accurate data to provide users with current conditions, temperature trends, and precipitation alerts. Designed with user experience in mind, the app features a clean interface and easy access to essential weather information.
+[Weather App Repo](https://github.com/Logeshwaran-KS/Weather-App) &emsp; [Website]() -Yet to be hosted
 
-[Weather App Repo](https://github.com/Logeshwaran-KS/Weather-App)
-
-[Website]() -Yet to be hosted
 
 ## 🎓 My Learning & Development
 
