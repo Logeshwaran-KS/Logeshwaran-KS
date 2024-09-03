@@ -42,7 +42,7 @@ Welcome to my digital space on GitHub! I'm driven by a creative passion for leve
 [Leaf Disease Repo](https://github.com/Logeshwaran-KS/Plants-Disease-Detection)
 
 ### 🌿 Medicinal Plant Detection
-[Medicinal Plants Detection]() - ML &emsp;   [Medicinal Plants Detection]() - DL  &emsp;  [Explore the Website](#) - Static
+[Medicinal Plants Detection](https://github.com/Logeshwaran-KS/Medicinal-Plants-Detection-Using-Machine-Learning) - ML &emsp;   [Medicinal Plants Detection](https://github.com/Logeshwaran-KS/Medicinal-Plants-Detection-Using-Deep-Learning) - DL  &emsp;  [Explore the Website](https://medplant.netlify.app/) - Static
 
 ### 🧠 Brain Tumor Segmentation
 [Explore the Repo](#)
